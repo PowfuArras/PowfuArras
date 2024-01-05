@@ -9,6 +9,3 @@
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PowfuArras&layout=donut-vertical&theme=merko&border_radius=0&hide_border=true">
 </p>
 <hr>
-<p align="center">
-  <img width="482" src="https://lanyard.cnrad.dev/api/433325944141512705" />
-</p>
