@@ -7,4 +7,3 @@
 <!--p align="center">
   <img width="482" src="https://lanyard.cnrad.dev/api/433325944141512705" />
 </p-->
-<hr>
