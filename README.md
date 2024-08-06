@@ -2,7 +2,7 @@
   <img width="128" src="https://avatars.githubusercontent.com/u/72747112" />
 </p>
 
-### 👋 Hello! I'm K. C., (known as PowfuArras or xsku online), a passionate, self-taught developer with a strong interest in game and web development. I also have an interest in hardware, but not as much.
+### 👋 Hello! I'm K. C., (known as PowfuArras or xsku online), a passionate, self-taught developer with a strong interest in game and web development. I also have a small but growing interest in hardware.
 
 ## 🛠 Skills
 - **Languages:** Javascript, Typescript, Python, Go, HTML, CSS 
