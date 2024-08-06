@@ -15,15 +15,15 @@
 
 
 ## 🚀 Projects
-- **Polytanks**, An unofficial continuation of diep.io, leaning into a different experience.
-- **Portfolio Website**: Showcasing my projects and skills.
-- **Beyond Vanilla Plus (BVP)**, A large modpack for Minecraft 1.12.2 using the latest developments from the community with tools and frameworks such as CleanroomMC, Vintagium, VintageFix, etc.
-- **SVGenius**, An SVG path editor.
+- **Polytanks**: An unofficial continuation of diep.io, leaning into a different experience.
+- **Portfolio Website**: A website to showcase all my projects and skills.
+- **Beyond Vanilla Plus (BVP)**: A large modpack for Minecraft 1.12.2 using the latest developments from the community with tools and frameworks such as CleanroomMC, Vintagium, VintageFix, etc.
+- **SVGenius**: An SVG path editor.
 
 
 ## 💬 Wanna chat? I'm open!
-- Email: xsku@protonmail.com
-- Discord: @xskt
+- **Email:** xsku@protonmail.com
+- **Discord:** @xskt
 
 ### Hope you have a good day! ❤
 
